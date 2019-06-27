@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="new_btn">New</string>
+    <string name="save_btn">Save</string>
+    <string name="title">Title</string>
+    <string name="enter_text">Enter text....</string>
+    <string name="share_preference">mooktNotepadSharePreference</string>
+    <string name="delete_all_btn">Delete All</string>
+    <string name="delete_btn">Delete</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="edit_btn">Edit</string>
+
+</resources>
